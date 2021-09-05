@@ -1,0 +1,27 @@
+##----------Android----------
+*.apk
+*.ap_
+*.dex
+*.class
+target/
+
+local.properties
+
+##----------idea----------
+*.iml
+.idea/
+*.ipr
+*.iws
+
+##----------npm包----------
+/node_modules
+npm-debug.log*
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+##----------Other----------
+# osx
+*~
+.DS_Store
+gradle.properties
